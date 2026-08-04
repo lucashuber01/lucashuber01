@@ -5,6 +5,11 @@
 <h1 align="center">I'm <a href="https://github.com/Aryagm">Lucas Huber<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
+<p>Estudiante de Técnico en Informática con formación en desarrollo de software. Enfocado en
+el aprendizaje y en adquirir experiencia trabajando en proyectos reales, especialmente en
+programación y bases de datos. Interesado en oportunidades donde pueda aprender y
+aportar compromiso al equipo.
+</p>
 
 <!--
 **lucashuber01/lucashuber01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
